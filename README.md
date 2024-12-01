@@ -23,17 +23,12 @@ A seguir, estão descritos os dados derivados do seu processamento:
 * **month:** mês de referência;
 * **year:** ano de referência.
 
-### TLDR
-
+## Redes
 * **Dashboard:**
   * Google Data Studio ([link](https://lookerstudio.google.com/reporting/0d8db6f1-66d6-4dd9-a875-1aa9182712d4)).
 
 * **Processamento:**
   * Kaggle Notebook ([link](https://www.kaggle.com/code/hellenpeixoto/covid-19?scriptVersionId=191724264)).
-
-* **Fontes:**
-  * Casos pela universidade John Hopkins [link](https:////www.jhu.edu/));
-  * Vacinação pela universidade de Oxford ([link](https://www.bbc.com/portuguese/geral-54698507)).
  
 
 * O dashboard de dados contém os seguintes indicadores chaves de desempenho (key performance indicator ou KPI) consolidados:
@@ -56,12 +51,10 @@ A seguir, estão descritos os dados derivados do seu processamento:
 ![image](https://github.com/user-attachments/assets/d680c52e-d42a-4d66-9670-79ad96b2bd3a)
 
 ## Informações
-* **Dashboard:**
-  * Google Data Studio ([link](https://lookerstudio.google.com/reporting/0d8db6f1-66d6-4dd9-a875-1aa9182712d4)).
-
-* **Processamento:**
-  * Kaggle Notebook ([link](https://www.kaggle.com/code/hellenpeixoto/covid-19?scriptVersionId=191724264)).
-  * 
+* **Fontes:**
+  * Casos pela universidade John Hopkins [link](https:////www.jhu.edu/));
+  * Vacinação pela universidade de Oxford ([link](https://www.bbc.com/portuguese/geral-54698507)).
+    
 **Referências**
 
 https://www.gov.br/saude/pt-br/coronavirus/o-que-e-o-coronavirus https://www.jhu.edu
