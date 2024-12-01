@@ -1,5 +1,5 @@
 # COVID-19 
-## Informações
+## Dados
 
 Este projeto busca construir um dashboard de dados para exploração e visualização interativa de dados sobre o avanço de casos e da vacinação no Brasil.
 
