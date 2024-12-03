@@ -1,5 +1,9 @@
 # COVID-19 
-Este projeto busca construir um dashboard de dados para exploração e visualização interativa de dados sobre o avanço de casos e da vacinação no Brasil.
+### Pandemia coronavírus 2019
+A COVID-19 é uma infecção respiratória aguda causada pelo coronavírus SARS-CoV-2. Trata-se de uma doença potencialmente grave, com alta transmissibilidade e alcance global.
+
+
+Este projeto tem como objetivo desenvolver um dashboard interativo para exploração e visualização de dados sobre o avanço dos casos e da vacinação contra a COVID-19 no Brasil.
 
 ## Dados
 
