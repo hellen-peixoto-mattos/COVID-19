@@ -1,7 +1,7 @@
 # COVID-19 
-## Dados
-
 Este projeto busca construir um dashboard de dados para exploração e visualização interativa de dados sobre o avanço de casos e da vacinação no Brasil.
+
+## Dados
 
 
 Os dados sobre casos da **COVID-19** são compilados pelo centro de ciência de sistemas e engenharia da universidade americana **John Hopkins**. Esses dados  são atualizados diariamente desde janeiro de 2020 com uma granularidade temporal de dias e geográfica de regiões de países (estados, condados etc.). O website do projeto pode ser acessado neste [link](https://systems.jhu.edu/research/public-health/ncov/). Já os dados estão disponíveis no [link](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports).
