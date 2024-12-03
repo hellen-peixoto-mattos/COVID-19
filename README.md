@@ -23,25 +23,25 @@ A seguir, estão descritos os dados derivados do seu processamento:
 * **month:** mês de referência;
 * **year:** ano de referência.
 
+
+O dashboard de dados contém os seguintes indicadores chaves de desempenho (key performance indicator ou KPI) consolidados:
+1. Casos e mortes nas 24 horas;
+2. Média móvel (7 dias) de casos e mortes;
+3. Tendência de casos e mortes;
+4. Proporção de vacinados com 1ª, 2ª e 3ª doses.
+
+O dashboard de dados contém os seguintes gráficos para a análise exploratória de dados (exploratory data analysis ou EDA) interativa:
+1. Distribuição do números de casos e mortes ao longo do tempo;
+2. Distribuição da média móvel (7 dias) do números de casos e mortes ao longo do tempo;
+3. Distribuição geográfica dos casos por estado por dia.
+
 ## Redes
 * **Dashboard:**
   * Google Data Studio ([link](https://lookerstudio.google.com/reporting/0d8db6f1-66d6-4dd9-a875-1aa9182712d4)).
 
 * **Processamento:**
   * Kaggle Notebook ([link](https://www.kaggle.com/code/hellenpeixoto/covid-19?scriptVersionId=191724264)).
- 
 
-* O dashboard de dados contém os seguintes indicadores chaves de desempenho (key performance indicator ou KPI) consolidados:
-1. Casos e mortes nas 24 horas;
-2. Média móvel (7 dias) de casos e mortes;
-3. Tendência de casos e mortes;
-4. Proporção de vacinados com 1ª, 2ª e 3ª doses.
-
-
-* O dashboard de dados contém os seguintes gráficos para a análise exploratória de dados (exploratory data analysis ou EDA) interativa:
-1. Distribuição do números de casos e mortes ao longo do tempo;
-2. Distribuição da média móvel (7 dias) do números de casos e mortes ao longo do tempo;
-3. Distribuição geográfica dos casos por estado por dia.
 
 ## Visualização
 * Casos por faixa:
